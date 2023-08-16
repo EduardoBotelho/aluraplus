@@ -103,6 +103,7 @@ body {
 .rodape {
     text-align: center;
     margin: 5em 3em;
+    list-style-type: none;
 }
 .rodape__logo {
     text-align: center;
@@ -117,6 +118,7 @@ body {
     text-decoration: none;
     margin-left:1em;
     color: var(--branco-principal);
+    list-style-type: none;
 }
 .rodape__texto {
     display: list-item;
